@@ -22,7 +22,7 @@ def SHA256(filename: str) -> str:
 
 
 def main():
-    print('Hello World!')
+    print('Hashing Module!')
 
 if __name__ == "__main__":
     main()
