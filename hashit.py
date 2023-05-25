@@ -25,4 +25,4 @@ def main():
     print('Hashing Module!')
 
 if __name__ == "__main__":
-    main()
+    main() #testing
